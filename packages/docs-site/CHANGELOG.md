@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.3.0...docs-site-v1.4.0) (2024-05-22)
+
+
+### Features
+
+* **docs-site:** node from source ([#17208](https://github.com/taikoxyz/taiko-mono/issues/17208)) ([5c7a122](https://github.com/taikoxyz/taiko-mono/commit/5c7a1227e1fed0fe7d0e81caa6cd390b897092eb))
+* **docs-site:** update chain sync process description ([#17207](https://github.com/taikoxyz/taiko-mono/issues/17207)) ([3cc5182](https://github.com/taikoxyz/taiko-mono/commit/3cc5182bbd8e8c079522dff4b836fbddaeddc548))
+
 ## [1.3.0](https://github.com/taikoxyz/taiko-mono/compare/docs-site-v1.2.0...docs-site-v1.3.0) (2024-05-15)
 
 
