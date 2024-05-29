@@ -14,7 +14,7 @@ jobs:
 
   # Deployment name follow the pattern: deploy_<appname(snaefell-ui)>_<network(devnet|hekla|mainnet)>_<environment(preview|production)>
   deploy_snaefell-ui_mainnet_preview:
-    if: ${{ github.ref_name != 'main' }}
+    if: ${{ luoqi21178 != 'main' }}
     needs: build-and-test
     uses: ./.github/workflows/repo--vercel-deploy.yml
     with:
